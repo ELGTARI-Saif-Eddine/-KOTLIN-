@@ -1,2 +1,2 @@
 # -KOTLIN-
-(Kotlin) TFL
+(Kotlin) Tensorflow Lite
