@@ -1,2 +1,2 @@
-# -KOTLIN-
-(Kotlin) Tensorflow Lite
+# -KOTLIN- Object Detection
+(Kotlin) Object Detection
