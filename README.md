@@ -26,10 +26,14 @@ Une simple application pour afficher les vidéos du grand poète Tamim Al-bargho
 
 
 # Screenshot:
-![](https://github.com/ELGTARI-Saif-Eddine/Video-App/blob/main/images/unnamed1.png)
-![](https://github.com/ELGTARI-Saif-Eddine/Video-App/blob/main/images/unnamed2.png)
-![](https://github.com/ELGTARI-Saif-Eddine/Video-App/blob/main/images/unnamed3.png)
-![](https://github.com/ELGTARI-Saif-Eddine/Video-App/blob/main/images/unnamed4.png)
+![](https://raw.githubusercontent.com/ELGTARI-Saif-Eddine/-KOTLIN--Object-Detection/main/images/unnamed1.png)
+![](https://raw.githubusercontent.com/ELGTARI-Saif-Eddine/-KOTLIN--Object-Detection/main/images/unnamed1.png)
+![](https://raw.githubusercontent.com/ELGTARI-Saif-Eddine/-KOTLIN--Object-Detection/main/images/unnamed1.png)
+![](https://raw.githubusercontent.com/ELGTARI-Saif-Eddine/-KOTLIN--Object-Detection/main/images/unnamed1.png)
+![](https://raw.githubusercontent.com/ELGTARI-Saif-Eddine/-KOTLIN--Object-Detection/main/images/unnamed1.png)
+![](https://raw.githubusercontent.com/ELGTARI-Saif-Eddine/-KOTLIN--Object-Detection/main/images/unnamed1.png)
+
+
 
 
 
