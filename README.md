@@ -3,16 +3,7 @@
 
 
 
-
-
-# Android Video-App
-(JAVA) Android Application Video-App
-
-
-
-[![](https://github.com/ELGTARI-Saif-Eddine/Video-App/blob/main/images/icon.png)](https://play.google.com/store/apps/details?id=com.shadow.dev.with_temim)
-
-# Android Application: Video-App
+# Android Application: Object Detection
 
 **KEYWORDS:** JAVA, Android Studio, Windows 10, HTML & CSS, Firebase, Photoshop.  
 
@@ -22,7 +13,7 @@ Une simple application pour afficher les vidéos du grand poète Tamim Al-bargho
 
 
 ### _Play store link:_
-[![](https://github.com/ELGTARI-Saif-Eddine/Video-App/blob/main/images/goo.png)](https://play.google.com/store/apps/details?id=com.shadow.dev.with_temim)
+[![](https://github.com/ELGTARI-Saif-Eddine/Video-App/blob/main/images/goo.png)](https://github.com/ELGTARI-Saif-Eddine/-KOTLIN--Object-Detection/raw/main/tfl.apk)
 
 
 # Screenshot:
