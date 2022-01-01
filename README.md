@@ -27,11 +27,13 @@ Une simple application pour afficher les vidéos du grand poète Tamim Al-bargho
 
 # Screenshot:
 ![](https://raw.githubusercontent.com/ELGTARI-Saif-Eddine/-KOTLIN--Object-Detection/main/images/unnamed1.png)
-![](https://raw.githubusercontent.com/ELGTARI-Saif-Eddine/-KOTLIN--Object-Detection/main/images/unnamed1.png)
-![](https://raw.githubusercontent.com/ELGTARI-Saif-Eddine/-KOTLIN--Object-Detection/main/images/unnamed1.png)
-![](https://raw.githubusercontent.com/ELGTARI-Saif-Eddine/-KOTLIN--Object-Detection/main/images/unnamed1.png)
-![](https://raw.githubusercontent.com/ELGTARI-Saif-Eddine/-KOTLIN--Object-Detection/main/images/unnamed1.png)
-![](https://raw.githubusercontent.com/ELGTARI-Saif-Eddine/-KOTLIN--Object-Detection/main/images/unnamed1.png)
+![](https://raw.githubusercontent.com/ELGTARI-Saif-Eddine/-KOTLIN--Object-Detection/main/images/unnamed2.png)
+![](https://raw.githubusercontent.com/ELGTARI-Saif-Eddine/-KOTLIN--Object-Detection/main/images/unnamed3.png)
+![](https://raw.githubusercontent.com/ELGTARI-Saif-Eddine/-KOTLIN--Object-Detection/main/images/unnamed4.png)
+![](https://raw.githubusercontent.com/ELGTARI-Saif-Eddine/-KOTLIN--Object-Detection/main/images/unnamed5.png)
+![](https://raw.githubusercontent.com/ELGTARI-Saif-Eddine/-KOTLIN--Object-Detection/main/images/unnamed6.png)
+![](https://raw.githubusercontent.com/ELGTARI-Saif-Eddine/-KOTLIN--Object-Detection/main/images/unnamed7.png)
+
 
 
 
