@@ -13,7 +13,7 @@ Une simple application pour afficher les vidéos du grand poète Tamim Al-bargho
 
 
 ### _Play store link:_
-[![](https://github.com/ELGTARI-Saif-Eddine/Video-App/blob/main/images/goo.png)](https://github.com/ELGTARI-Saif-Eddine/-KOTLIN--Object-Detection/raw/main/tfl.apk)
+[![](https://raw.githubusercontent.com/ELGTARI-Saif-Eddine/-KOTLIN--Object-Detection/main/images/goo.png)](https://github.com/ELGTARI-Saif-Eddine/-KOTLIN--Object-Detection/raw/main/tfl.apk)
 
 
 # Screenshot:
